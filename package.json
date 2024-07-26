@@ -1,0 +1,26 @@
+{
+  "browserslist": [
+    "> 1%", "last 2 versions", "firefox >= 4", "safari 7", "safari 8", "IE 8", "IE 9", "IE 10", "IE 11"
+  ],
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.35",
+    "sass": "^1.71.0"
+  },
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.13.2",
+    "swiper": "^11.0.6",
+    "wow.js": "^1.2.2"
+  }
+}
